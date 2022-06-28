@@ -1,0 +1,22 @@
+1. this link is what worked when I tried to set up tailwind: https://tailwindcss.com/docs/guides/nextjs
+2. npm run dev to make it open in localhost
+3. have to be cd into studio to run sanity start
+4. npm install react-icons 
+5. you can name a query paramter in the route something by saying collections>[name_of_query_param].js
+So what happens then is if the link says http://localhost:3000/collections/0x66a576A977b7Bccf510630E0aA5e450EC11361Fa
+then the computer goes to collecitons folder > assigns whatever is after collections/ to the value 
+of name_of_query_param. THAT IS SO COOL!
+^^I could use that to determine which flowchart needs to be displayed right?
+
+
+
+
+
+
+QUESTIONS
+1. look through the different tailwind css styles applied
+2. how does rem get set 
+3. useRouter()?
+4. before: ? tailwindcss //https://www.youtube.com/watch?v=LQsjNmkqUOc&t=0s
+5. react hooks
+6. when do we do collection?.title why the question mark?
